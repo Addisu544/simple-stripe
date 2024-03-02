@@ -1,2 +1,2 @@
 # simple-stripe
-pay with multiple buttons V2
+pay with multiple html buttons V2
